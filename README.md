@@ -1,4 +1,7 @@
 Nic Pittman
+
+https://nic-pittman.github.io/Plot.ly-Homework---Belly-Button-Biodiversity/
+
 # Plot.ly-Homework---Belly-Button-Biodiversity
 
 Plot.ly Homework - Belly Button Biodiversity
@@ -55,6 +58,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
  6. Update all of the plots any time that a new sample is selected.
+ 
+ https://nic-pittman.github.io/Plot.ly-Homework---Belly-Button-Biodiversity/
 
 
 # Advanced Challenge Assignment (Optional)
