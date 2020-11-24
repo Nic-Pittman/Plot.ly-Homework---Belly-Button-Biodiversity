@@ -23,54 +23,52 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 - Use otu_labels as the hovertext for the chart.
 
+![bar](https://user-images.githubusercontent.com/69124282/100138397-f9a25880-2e5b-11eb-8c90-756db8a0ea22.jpg)
 
 
-
-Create a bubble chart that displays each sample.
-
+ 3. Create a bubble chart that displays each sample.
 
 
-Use otu_ids for the x values.
+- Use otu_ids for the x values.
 
 
-Use sample_values for the y values.
+- Use sample_values for the y values.
 
 
-Use sample_values for the marker size.
+- Use sample_values for the marker size.
 
 
-Use otu_ids for the marker colors.
+- Use otu_ids for the marker colors.
 
 
-Use otu_labels for the text values.
+- Use otu_labels for the text values.
+
+![bubble](https://user-images.githubusercontent.com/69124282/100138412-fd35df80-2e5b-11eb-9ff2-e3cb4c21cbd3.jpg)
 
 
-
-Display the sample metadata, i.e., an individual's demographic information.
-
-
-Display each key-value pair from the metadata JSON object somewhere on the page.
+ 4. Display the sample metadata, i.e., an individual's demographic information.
 
 
+ 5. Display each key-value pair from the metadata JSON object somewhere on the page.
+
+![panel](https://user-images.githubusercontent.com/69124282/100138415-feffa300-2e5b-11eb-807a-654a8d558801.jpg)
 
 
-Update all of the plots any time that a new sample is selected.
-
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+ 6. Update all of the plots any time that a new sample is selected.
 
 
-Advanced Challenge Assignment (Optional)
+# Advanced Challenge Assignment (Optional)
 The following task is advanced and therefore optional.
 
 
-Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+- Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
 
 
-You will need to modify the example gauge code to account for values ranging from 0 through 9.
+- You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 
-Update the chart whenever a new sample is selected.
+- Update the chart whenever a new sample is selected.
 
-
+![gauge](https://user-images.githubusercontent.com/69124282/100138402-fb6c1c00-2e5b-11eb-9302-017489b7831c.jpg)
 
 
